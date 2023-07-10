@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This repository contains code and resources for credit card fraud detection system.
+This repository contains code and resources for credit card fraud detection system using *Logistic Regression*.
 
 ## Concept
 
