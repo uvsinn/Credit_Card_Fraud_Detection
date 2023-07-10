@@ -35,7 +35,7 @@ To run the code, follow these steps:
    pip install -r requirements.txt
 
 3. Run the main script:
-   python main.py
+   python Credit_Card_Fraud_Detection.ipynb
    
 ## Contributing
 
