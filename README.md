@@ -46,7 +46,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 If you have any questions or inquiries, feel free to contact the project maintainer:
 
 - Name: Yuvraj Singh Shishodia
-- Email: yuvrajsinghshishodia@email.com
+- Email: yuvrajsinghshishodia@gmail.com
 
 
 
