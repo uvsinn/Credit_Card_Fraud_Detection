@@ -36,6 +36,11 @@ To run the code, follow these steps:
 
 3. Run the main script:
    python Credit_Card_Fraud_Detection.ipynb
+
+## Results
+
+<img src="results/credit card classification report.png" width="500"/>
+
    
 ## Contributing
 
