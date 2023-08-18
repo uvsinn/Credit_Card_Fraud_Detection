@@ -39,7 +39,7 @@ To run the code, follow these steps:
 
 ## Results
 
-<img src="results/1.png" width="500"/>
+<img src="results/1.png" width="1200"/>
 
    
 ## Contributing
