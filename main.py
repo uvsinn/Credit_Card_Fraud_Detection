@@ -41,6 +41,5 @@ if submit:
         st.write("Legitimate Transaction")
     else:
         st.write("Fradulant Transaction")
-
-st.subheader('Accuracy: ')
-st.write(str(accuracy_score(Y_test, model.predict(X_test))*100)+'%')
+    st.subheader('Accuracy: ')
+    st.write(str(accuracy_score(Y_test, model.predict(X_test))*100)+'%')
